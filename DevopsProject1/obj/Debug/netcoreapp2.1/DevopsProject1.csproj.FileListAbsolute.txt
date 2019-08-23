@@ -1,0 +1,14 @@
+C:\Users\jmohanan\source\repos\DevopsProject1\DevopsProject1\bin\Debug\netcoreapp2.1\DevopsProject1.deps.json
+C:\Users\jmohanan\source\repos\DevopsProject1\DevopsProject1\bin\Debug\netcoreapp2.1\DevopsProject1.runtimeconfig.json
+C:\Users\jmohanan\source\repos\DevopsProject1\DevopsProject1\bin\Debug\netcoreapp2.1\DevopsProject1.runtimeconfig.dev.json
+C:\Users\jmohanan\source\repos\DevopsProject1\DevopsProject1\bin\Debug\netcoreapp2.1\DevopsProject1.dll
+C:\Users\jmohanan\source\repos\DevopsProject1\DevopsProject1\obj\Debug\netcoreapp2.1\DevopsProject1.csproj.CoreCompileInputs.cache
+C:\Users\jmohanan\source\repos\DevopsProject1\DevopsProject1\obj\Debug\netcoreapp2.1\DevopsProject1.RazorAssemblyInfo.cache
+C:\Users\jmohanan\source\repos\DevopsProject1\DevopsProject1\obj\Debug\netcoreapp2.1\DevopsProject1.RazorAssemblyInfo.cs
+C:\Users\jmohanan\source\repos\DevopsProject1\DevopsProject1\obj\Debug\netcoreapp2.1\DevopsProject1.AssemblyInfoInputs.cache
+C:\Users\jmohanan\source\repos\DevopsProject1\DevopsProject1\obj\Debug\netcoreapp2.1\DevopsProject1.AssemblyInfo.cs
+C:\Users\jmohanan\source\repos\DevopsProject1\DevopsProject1\obj\Debug\netcoreapp2.1\DevopsProject1.RazorTargetAssemblyInfo.cache
+C:\Users\jmohanan\source\repos\DevopsProject1\DevopsProject1\bin\Debug\netcoreapp2.1\DevopsProject1.pdb
+C:\Users\jmohanan\source\repos\DevopsProject1\DevopsProject1\obj\Debug\netcoreapp2.1\DevopsProject1.dll
+C:\Users\jmohanan\source\repos\DevopsProject1\DevopsProject1\obj\Debug\netcoreapp2.1\DevopsProject1.pdb
+C:\Users\jmohanan\source\repos\DevopsProject1\DevopsProject1\obj\Debug\netcoreapp2.1\DevopsProject1.csprojAssemblyReference.cache
